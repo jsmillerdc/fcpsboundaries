@@ -1,0 +1,61 @@
+elementary_school,pyramid,ethnicity,pop_percentage,split_feeder
+Daniels Run,Fairfax,Asian,11.5,FALSE
+Eagle View,Fairfax,Asian,23.6,FALSE
+Providence,Fairfax,Asian,14.7,FALSE
+Willow Springs,Fairfax,Asian,33.2,FALSE
+Daniels Run,Fairfax,Black (Not Of Hispanic Origin),4.3,FALSE
+Eagle View,Fairfax,Black (Not Of Hispanic Origin),15.7,FALSE
+Providence,Fairfax,Black (Not Of Hispanic Origin),5.9,FALSE
+Willow Springs,Fairfax,Black (Not Of Hispanic Origin),5.3,FALSE
+Daniels Run,Fairfax,Hispanic Or Latino,34.2,FALSE
+Eagle View,Fairfax,Hispanic Or Latino,14.5,FALSE
+Providence,Fairfax,Hispanic Or Latino,37.7,FALSE
+Willow Springs,Fairfax,Hispanic Or Latino,7.6,FALSE
+Daniels Run,Fairfax,Other,6.7,FALSE
+Eagle View,Fairfax,Other,7.6,FALSE
+Providence,Fairfax,Other,8.9,FALSE
+Willow Springs,Fairfax,Other,7.9,FALSE
+Daniels Run,Fairfax,White (Not Of Hispanic Origin),43.3,FALSE
+Eagle View,Fairfax,White (Not Of Hispanic Origin),38.7,FALSE
+Providence,Fairfax,White (Not Of Hispanic Origin),32.8,FALSE
+Willow Springs,Fairfax,White (Not Of Hispanic Origin),46,FALSE
+Fairfax Pyramid Average,,Asian,20.7,FALSE
+Fairfax Pyramid Average,,Black (Not Of Hispanic Origin),7.8,FALSE
+Fairfax Pyramid Average,,Hispanic Or Latino,23.5,FALSE
+Fairfax Pyramid Average,,Other,7.7,FALSE
+Fairfax Pyramid Average,,White (Not Of Hispanic Origin),38.3,FALSE
+Poplar Tree,Chantilly,Asian,45.5,FALSE
+Poplar Tree,Chantilly,Black (Not Of Hispanic Origin),5.6,FALSE
+Poplar Tree,Chantilly,Hispanic Or Latino,8.6,FALSE
+Poplar Tree,Chantilly,White (Not Of Hispanic Origin),36.3,FALSE
+Poplar Tree,Chantilly,Other,4,FALSE
+Oak Hill,Chantilly,Asian,38.2,FALSE
+Oak Hill,Chantilly,Black (Not Of Hispanic Origin),3.4,FALSE
+Oak Hill,Chantilly,Hispanic Or Latino,8.4,FALSE
+Oak Hill,Chantilly,White (Not Of Hispanic Origin),42.8,FALSE
+Oak Hill,Chantilly,Other,7.2,FALSE
+Lees Corner,Chantilly,Asian,32.1,FALSE
+Lees Corner,Chantilly,Black (Not Of Hispanic Origin),5.3,FALSE
+Lees Corner,Chantilly,Hispanic Or Latino,12.7,FALSE
+Lees Corner,Chantilly,White (Not Of Hispanic Origin),39.9,FALSE
+Lees Corner,Chantilly,Other,10.1,FALSE
+Greenbriar West,Chantilly,Asian,42.2,FALSE
+Greenbriar West,Chantilly,Black (Not Of Hispanic Origin),5.6,FALSE
+Greenbriar West,Chantilly,Hispanic Or Latino,11,FALSE
+Greenbriar West,Chantilly,White (Not Of Hispanic Origin),34.9,FALSE
+Greenbriar West,Chantilly,Other,6.4,TRUE
+Greenbriar East (Split-Feeder),Chantilly,Asian,21.4,TRUE
+Greenbriar East (Split-Feeder),Chantilly,Black (Not Of Hispanic Origin),9.3,TRUE
+Greenbriar East (Split-Feeder),Chantilly,Hispanic Or Latino,22.3,TRUE
+Greenbriar East (Split-Feeder),Chantilly,White (Not Of Hispanic Origin),41,TRUE
+Greenbriar East (Split-Feeder),Chantilly,Other,6,TRUE
+Brookfield (Split-Feeder),Chantilly,Asian,21.5,TRUE
+Brookfield (Split-Feeder),Chantilly,Black (Not Of Hispanic Origin),8.5,TRUE
+Brookfield (Split-Feeder),Chantilly,Hispanic Or Latino,50.5,TRUE
+Brookfield (Split-Feeder),Chantilly,White (Not Of Hispanic Origin),15.6,TRUE
+Brookfield (Split-Feeder),Chantilly,Other,4,TRUE
+Chantilly Pyramid Average,,Asian,33.5,FALSE
+Chantilly Pyramid Average,,Black (Not Of Hispanic Origin),6.3,FALSE
+Chantilly Pyramid Average,,Hispanic Or Latino,18.9,FALSE
+Chantilly Pyramid Average,,Other,6.3,FALSE
+Chantilly Pyramid Average,,White (Not Of Hispanic Origin),35.1,FALSE

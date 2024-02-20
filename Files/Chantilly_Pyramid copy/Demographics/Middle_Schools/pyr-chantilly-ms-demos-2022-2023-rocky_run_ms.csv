@@ -1,0 +1,6 @@
+division,pyramid,middle_school,ethnicity,pop_num,pop_percentage,source,latitude,longitude
+FCPS,Chantilly,Rocky Run,Asian,400,42.37,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:251,0",38.87488,-77.41012
+FCPS,Chantilly,Rocky Run,Black (Not Of Hispanic Origin),63,6.67,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:251,1",38.87488,-77.41012
+FCPS,Chantilly,Rocky Run,Hispanic Or Latino,128,13.56,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:251,2",38.87488,-77.41012
+FCPS,Chantilly,Rocky Run,White (Not Of Hispanic Origin),294,31.14,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:251,3",38.87488,-77.41012
+FCPS,Chantilly,Rocky Run,Other,59,6.25,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:251,4",38.87488,-77.41012

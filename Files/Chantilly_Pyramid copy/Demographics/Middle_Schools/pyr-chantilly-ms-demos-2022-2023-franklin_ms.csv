@@ -1,0 +1,6 @@
+division,pyramid,middle_school,ethnicity,pop_num,pop_percentage,source
+FCPS,Chantilly,Franklin,Asian,242,29.09,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:331,0"
+FCPS,Chantilly,Franklin,Black (Not Of Hispanic Origin),56,6.73,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:331,1"
+FCPS,Chantilly,Franklin,Hispanic Or Latino,122,14.66,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:331,2"
+FCPS,Chantilly,Franklin,White (Not Of Hispanic Origin),362,43.51,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:331,3"
+FCPS,Chantilly,Franklin,Other,50,6.01,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:331,4"

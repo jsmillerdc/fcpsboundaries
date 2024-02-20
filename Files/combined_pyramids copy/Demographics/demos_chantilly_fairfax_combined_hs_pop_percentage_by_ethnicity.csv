@@ -1,0 +1,12 @@
+division,pyramid,high_school,ethnicity,pop_num,pop_percentage,source
+FCPS,Chantilly,Chantilly High School,Asian,"1,162",39.9,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:250,0"
+FCPS,Chantilly,Chantilly High School,Black (Not Of Hispanic Origin),148,5.1,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:250,1"
+FCPS,Chantilly,Chantilly High School,Hispanic Or Latino,474,16.3,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:250,2"
+FCPS,Chantilly,Chantilly High School,White (Not Of Hispanic Origin),987,33.9,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:250,3"
+FCPS,Chantilly,Chantilly High School,Other,144,4.9,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:250,4"
+FCPS,Fairfax,Fairfax High School,Asian,546,23.5,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,0"
+FCPS,Fairfax,Fairfax High School,Black (Not Of Hispanic Origin),207,8.9,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,1"
+FCPS,Fairfax,Fairfax High School,Hispanic Or Latino,624,26.9,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,2"
+FCPS,Fairfax,Fairfax High School,White (Not Of Hispanic Origin),797,34.4,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,3"
+FCPS,Fairfax,Fairfax High School,Other,146,6.3,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,4"
+,,,,,,

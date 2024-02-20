@@ -1,0 +1,21 @@
+subgroup,pass_percentage,pyramid,subject,middle_school
+All Students,76,Chantilly,Science,Franklin
+Female,74,Chantilly,Science,Franklin
+Male,78,Chantilly,Science,Franklin
+American Indian,100,Chantilly,Science,Franklin
+Asian,82,Chantilly,Science,Franklin
+Black,50,Chantilly,Science,Franklin
+Hispanic,46,Chantilly,Science,Franklin
+White,85,Chantilly,Science,Franklin
+Multiple Races,81,Chantilly,Science,Franklin
+Students with Disabilities,47,Chantilly,Science,Franklin
+Students without Disabilities,82,Chantilly,Science,Franklin
+Economically Disadvantaged,46,Chantilly,Science,Franklin
+Not Economically Disadvantaged,84,Chantilly,Science,Franklin
+English Learners,17,Chantilly,Science,Franklin
+Homeless,<,Chantilly,Science,Franklin
+Military Connected,100,Chantilly,Science,Franklin
+"
+                              < = A group below state definition for personally identifiable results
+- = Not applicable or no data for group
+* = Data not yet available                            ",,Chantilly,Science,Franklin

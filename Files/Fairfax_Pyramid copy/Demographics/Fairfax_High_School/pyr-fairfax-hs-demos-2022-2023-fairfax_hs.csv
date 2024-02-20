@@ -1,0 +1,7 @@
+division,high_school,ethnicity,pop_num,pop_percentage,source
+FCPS,Fairfax High School,Asian,546,23.5,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,0"
+FCPS,Fairfax High School,Black (Not Of Hispanic Origin),207,8.9,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,1"
+FCPS,Fairfax High School,Hispanic Or Latino,624,26.9,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,2"
+FCPS,Fairfax High School,White (Not Of Hispanic Origin),797,34.4,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,3"
+FCPS,Fairfax High School,Other,146,6.3,"https://schoolprofiles.fcps.edu/schlprfl/f?p=108:13:::NO::P0_CURRENT_SCHOOL_ID,P0_EDSL:500,4"
+,,,"2,320",100,
